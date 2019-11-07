@@ -4,7 +4,7 @@
   <version>0.2.4</version>
   <description>A Simple Node to Publish the Robot's Position Relative to the Map using TFs</description>
 
-  <maintainer email="rctoris@wpi.edu">Russell Toris</maintainer>
+  <maintainer email="marc@hanheide.net">Marc Hanheide</maintainer>
   <author email="rctoris@wpi.edu">Russell Toris</author>
 
   <license>BSD</license>
