@@ -2,6 +2,11 @@
 Changelog for package robot_pose_publisher
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* maintainer
+* Contributors: Marc Hanheide
+
 0.2.4 (2016-02-18)
 ------------------
 * Update README.md
